@@ -32,5 +32,5 @@ Join our GCcollab community, and sign up to our mailing list to be the first to 
 Whether you are just interested in talking to us about innovation, want to learn more about the program, or that you want to hire a free agent, we want to hear from you!
 
 - [freeagents-agentslibres@canada.ca](mailto:freeagents-agentslibres@canada.ca) 
-- [@freeagentlibre] (https://twitter.com/FreeAgentLibre)
-- [Canada's Free Agents] (https://www.linkedin.com/company/freeagents-agentslibres/)
+- [@freeagentlibre](https://twitter.com/FreeAgentLibre)
+- [Canada's Free Agents](https://www.linkedin.com/company/freeagents-agentslibres/)
