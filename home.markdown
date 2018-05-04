@@ -3,11 +3,11 @@ title: Home
 date: 2018-05-04 17:17:00 Z
 ---
 
-#Canada's Free Agents
+# Canada's Free Agents
 
 Canada’s Free Agents is a new model for workforce mobilization. It offers public servants the freedom to select work, and matches them with managers looking to rapidly and easily acquire resources their short-term project needs.
 
-##What we do
+## What we do
 Canada’s Free Agent finds, recruits, and develops talent – and sets it free.
 
 Free Agents are highly mobile employees. They were each hired after an intense screening process designed to assess strategic thinking, flexibility, leadership, creativity, and teamwork, among other attributes. While most work for federal organizations, the program is flexible enough to allow a free agent to join other types of organizations.
@@ -16,7 +16,7 @@ The hiring organization covers their salary and a share of the administrative co
 
 Who said HR couldn’t be easy?
 
-##Work with us
+## Work with us
 
 Are you a manager? Are you a manager? Do you want a Free Agent on your team? Great! Come meet our Free Agents on GCcollab. See who is available and what skills they have to offer to your organization.
 
@@ -27,7 +27,7 @@ Our current group of free agents is probably the most diverse team you will ever
 
 Join our GCcollab community, and sign up to our mailing list to be the first to know when we’ll start recruiting our next cohort of Free Agents.
 
-##Contact us
+## Contact us
 
 Whether you are just interested in talking to us about innovation, want to learn more about the program, or that you want to hire a free agent, we want to hear from you!
 
